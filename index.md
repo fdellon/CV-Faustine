@@ -27,6 +27,7 @@ Photographie : animation d'un compte Instagram pour partager ma passion : @equip
 ## FORMATION
 ### UNILASALLE ROUEN
 
+
 Rouen | Septembre 2020
 * Ingénieur en agronomie
 * Membre du BDS : responsable équitation
