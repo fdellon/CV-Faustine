@@ -1,34 +1,45 @@
-#CV Faustine Dlln 
+# CV Faustine Dlln 
 
 ## Profil 
 Faustine Dlln 
+
 21/12/2001 (19 ans) 
+
 Actuellement en 2ème année à Unilasalle Rouen, je suis ouverte à de nouvelles opportunités pour mettre à profit de l'entreprise mes compétences et développer de nouveaux savoirs.
 
 ## LANGUES & INFORMATIQUE
 Anglais : Niveau C1 - 920/990 au TOEIC
+
 Espagnol : Niveau B1
+
 Informatique :
 Word / Excel / PowerPoint/ Facebook / Instagram
 
 ## CENTRES D'INTERETS
 Babysitting : garde régulière d'enfants de tout âge
+
 Voyages : Etats-Unis, Irlande, Europe, Bali, Mexique, Costa Rica
+
 Sports : Equitation (titulaire du galop 5), Ski nautique, Wakeboard, Paddle et Surf
+
 Photographie : animation d'un compte Instagram pour partager ma passion : @equipix
 
 ## FORMATION
 ### UNILASALLE ROUEN
+
 Rouen | Septembre 2020
 * Ingénieur en agronomie
 * Membre du BDS : responsable équitation
+
 ### LE BON SAUVEUR
+
 Le Vésinet | Juin 2020
 * Baccalauréat scientifique - Mention Assez Bien
 
 ## EXPERIENCES PROFESSIONNELLES
 
 ### GROOM / PALFRENIÈRE / CAVALIÈRE MAISON
+
 Haras des Brimbelles, Titouan Schumacher, Normandie - Cavalier Juillet 2021
 * Travaux d’écurie / entretien des boxes et des infrastructures
 * Soins et nourrissage des chevaux / longe des chevaux
@@ -37,6 +48,7 @@ Haras des Brimbelles, Titouan Schumacher, Normandie - Cavalier Juillet 2021
 * Préparation des chevaux pour le cavalier
 
 ### GROOM / PALFRENIÈRE / CAVALIÈRE MAISON
+
 Ecurie Astier Nicolas, Normandie - Cavalier champion olympique Juillet 2019
 * Accompagnement du cavalier en concours et prise en charge de ses chevaux
 * Travail monté des chevaux en carrière et à la plage * Travaux d'écurie / Rangement du matériel
@@ -64,4 +76,4 @@ A chaque vacances scolaires
 
 ### SURVEILLANCE DE DEVOIRS SUR TABLE DE LYCÉENS 
 Le Bon Sauveur | depuis septembre 2020
-
+* Surveillance de devoirs sur table de premières et terminales
